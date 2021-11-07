@@ -55,4 +55,92 @@ List<PlanetInfo> planets = [
         "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
     images: [],
   ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    5,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    12,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
+  PlanetInfo(
+    11,
+    name: 'Sptnik5',
+    iconImage: '',
+    description:
+        "Sputnik 1 was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the USSR on 4 October 1957 as part of the Soviet space program",
+    images: [],
+  ),
 ];
