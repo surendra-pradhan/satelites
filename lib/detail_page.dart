@@ -117,7 +117,7 @@ class DetailPage extends StatelessWidget {
                               RichText(
                                   text: TextSpan(children: [
                                 TextSpan(
-                                    text: 'Line1 :',
+                                    text: 'Line2 :',
                                     style: TextStyle(
                                       fontSize: 24,
                                       color: primaryTextColor.withOpacity(1),
